@@ -26,3 +26,10 @@
 // if (hasFruit) {
 //   console.log(`${fruit} is a red fruit!`);
 // }
+
+// const x1 = 10;
+// const x2 = 30;
+// const number = 15;
+
+// console.log(number < x1);
+// console.log(x1 < number || number < x2);
